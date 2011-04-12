@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog excerpts feed    </title>
+        <link href="blog/excerpts.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2011-04-12T11:34:47Z</updated>
+
+    <id>/blog/excerpts.xml/</id>
+
+            <entry>
+            <title type="html">秦兝其人</title>
+            <author><name>Qin Fen</name></author>
+            <link href="/blog/who-is-qin-fen.html"/>
+            <updated>2011-04-12T10:00:00Z</updated>
+            <published>2011-04-12T10:00:00Z</published>
+            <id>/blog/who-is-qin-fen.html</id>
+            
+            <content type="html">
+                
+                &lt;p&gt;秦兝是你也是我，是所有的勤奋的人们。我们相信兼听则明，偏信则暗。仅此而已。&lt;/p&gt;            </content>
+        </entry>
+    </feed>
