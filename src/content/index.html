@@ -13,8 +13,17 @@ description: Home page
 {{ render_excerpt(latest, 'post') }}
 
 <a class="button white medium"
-    href="{{ content_url(latest.url) }}">Read more&hellip;</a>
+    href="{{ content_url(latest.url) }}">更多内容&hellip;</a>
 
 {%- endif %}
 
 </section>
+<span><a href="http://groups.google.com/group/fqrouter?hl=zh" target="_blank">fqrouter项目</a> 的邮件列表</span>
+
+<form action="http://groups.google.com/group/fqrouter/boxsubscribe" target="_blank">
+  <input type=hidden name="hl" value="zh">
+  <label>Email:</label>
+  <input type=text name=email>
+  <input type=submit name="sub" value="订阅">
+</form>
+
